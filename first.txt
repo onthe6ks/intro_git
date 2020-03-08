@@ -2,3 +2,4 @@ git_test
 commit
 2 file
 status
+diff
